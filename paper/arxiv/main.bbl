@@ -1,0 +1,138 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+\bibitem[{{Astropy Collaboration} {et~al.}(2018){Astropy Collaboration},
+  {Price-Whelan}, {Sip{\H{o}}cz}, {G{\"u}nther}, {Lim}, {Crawford}, {Conseil},
+  {Shupe}, {Craig}, {Dencheva}, {Ginsburg}, {Vand erPlas}, {Bradley},
+  {P{\'e}rez-Su{\'a}rez}, {de Val-Borro}, {Aldcroft}, {Cruz}, {Robitaille},
+  {Tollerud}, {Ardelean}, {Babej}, {Bach}, {Bachetti}, {Bakanov}, {Bamford},
+  {Barentsen}, {Barmby}, {Baumbach}, {Berry}, {Biscani}, {Boquien}, {Bostroem},
+  {Bouma}, {Brammer}, {Bray}, {Breytenbach}, {Buddelmeijer}, {Burke},
+  {Calderone}, {Cano Rodr{\'\i}guez}, {Cara}, {Cardoso}, {Cheedella}, {Copin},
+  {Corrales}, {Crichton}, {D'Avella}, {Deil}, {Depagne}, {Dietrich}, {Donath},
+  {Droettboom}, {Earl}, {Erben}, {Fabbro}, {Ferreira}, {Finethy}, {Fox},
+  {Garrison}, {Gibbons}, {Goldstein}, {Gommers}, {Greco}, {Greenfield},
+  {Groener}, {Grollier}, {Hagen}, {Hirst}, {Homeier}, {Horton}, {Hosseinzadeh},
+  {Hu}, {Hunkeler}, {Ivezi{\'c}}, {Jain}, {Jenness}, {Kanarek}, {Kendrew},
+  {Kern}, {Kerzendorf}, {Khvalko}, {King}, {Kirkby}, {Kulkarni}, {Kumar},
+  {Lee}, {Lenz}, {Littlefair}, {Ma}, {Macleod}, {Mastropietro}, {McCully},
+  {Montagnac}, {Morris}, {Mueller}, {Mumford}, {Muna}, {Murphy}, {Nelson},
+  {Nguyen}, {Ninan}, {N{\"o}the}, {Ogaz}, {Oh}, {Parejko}, {Parley}, {Pascual},
+  {Patil}, {Patil}, {Plunkett}, {Prochaska}, {Rastogi}, {Reddy Janga},
+  {Sabater}, {Sakurikar}, {Seifert}, {Sherbert}, {Sherwood-Taylor}, {Shih},
+  {Sick}, {Silbiger}, {Singanamalla}, {Singer}, {Sladen}, {Sooley},
+  {Sornarajah}, {Streicher}, {Teuben}, {Thomas}, {Tremblay}, {Turner},
+  {Terr{\'o}n}, {van Kerkwijk}, {de la Vega}, {Watkins}, {Weaver}, {Whitmore},
+  {Woillez}, {Zabalza}, \& {Astropy Contributors}}]{astropy18-1}
+{Astropy Collaboration}, {Price-Whelan}, A.~M., {Sip{\H{o}}cz}, B.~M., {et~al.}
+  2018, \aj, 156, 123, \dodoi{10.3847/1538-3881/aabc4f}
+
+\bibitem[{{Barstow} {et~al.}(1996){Barstow}, {Holberg}, {Hubeny}, {Lanz},
+  {Bruhweiler}, \& {Tweedy}}]{barstowetal96-1}
+{Barstow}, M.~A., {Holberg}, J.~B., {Hubeny}, I., {et~al.} 1996, \mnras, 279,
+  1120
+
+\bibitem[{{Bell} {et~al.}(2019){Bell}, {C{\'o}rsico}, {Bischoff-Kim},
+  {Althaus}, {Bradley}, {Calcaferro}, {Montgomery}, {Uzundag}, {Baran},
+  {Bogn{\'a}r}, {Charpinet}, {Ghasemi}, \& {Hermes}}]{belletal19-1}
+{Bell}, K.~J., {C{\'o}rsico}, A.~H., {Bischoff-Kim}, A., {et~al.} 2019, arXiv
+  e-prints, arXiv:1910.04180.
+\newblock \doarXiv{1910.04180}
+
+\bibitem[{{Christian} {et~al.}(1999){Christian}, {Craig}, {Cahill}, {Roberts},
+  \& {Malina}}]{christianetal99-1}
+{Christian}, D.~J., {Craig}, N., {Cahill}, W., {Roberts}, B., \& {Malina},
+  R.~F. 1999, \aj, 117, 2466, \dodoi{10.1086/300847}
+
+\bibitem[{{Dupuis} {et~al.}(2000){Dupuis}, {Chayer}, {Vennes}, {Christian}, \&
+  {Kruk}}]{dupuisetal00-1}
+{Dupuis}, J., {Chayer}, P., {Vennes}, S., {Christian}, D.~J., \& {Kruk}, J.~W.
+  2000, \apj, 537, 977, \dodoi{10.1086/309079}
+
+\bibitem[{{France} {et~al.}(2019){France}, {Fleming}, {Drake}, {Mason},
+  {Youngblood}, {Bourrier}, {Fossati}, {Froning}, {Koskinen}, {Kruczek},
+  {Lipscy}, {McEntaffer}, {Romaine}, {Siegmund}, \&
+  {Wilkinson}}]{franceetal19-1}
+{France}, K., {Fleming}, B.~T., {Drake}, J.~J., {et~al.} 2019, in Society of
+  Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 11118,
+  \procspie, 1111808, \dodoi{10.1117/12.2526859}
+
+\bibitem[{{G{\"a}nsicke} {et~al.}(2019){G{\"a}nsicke}, {Schreiber}, {Toloza},
+  {Fusillo}, {Koester}, \& {Manser}}]{gaensickeetal19-1}
+{G{\"a}nsicke}, B.~T., {Schreiber}, M.~R., {Toloza}, O., {et~al.} 2019, \nat,
+  576, 61, \dodoi{10.1038/s41586-019-1789-8}
+
+\bibitem[{{Giclas} {et~al.}(1967){Giclas}, {Burnham}, \&
+  {Thomas}}]{giclasetal67-1}
+{Giclas}, H.~L., {Burnham}, R., \& {Thomas}, N.~G. 1967, Lowell Observatory
+  Bulletin, 7, 49
+
+\bibitem[{{Hallakoun} {et~al.}(2018){Hallakoun}, {Maoz}, {Agol}, {Brown},
+  {Dufour}, {Farihi}, {G{\"a}nsicke}, {Kilic}, {Kosakowski}, {Loeb}, {Mazeh},
+  \& {Mullally}}]{hallakounetal18-1}
+{Hallakoun}, N., {Maoz}, D., {Agol}, E., {et~al.} 2018, \mnras, 476, 933,
+  \dodoi{10.1093/mnras/sty257}
+
+\bibitem[{{Hermes} {et~al.}(2017){Hermes}, {G{\"a}nsicke}, {Kawaler}, {Greiss},
+  {Tremblay}, {Gentile Fusillo}, {Raddi}, {Fanale}, {Bell}, {Dennihy}, {Fuchs},
+  {Dunlap}, {Clemens}, {Montgomery}, {Winget}, {Chote}, {Marsh}, \&
+  {Redfield}}]{hermesetal17-1}
+{Hermes}, J.~J., {G{\"a}nsicke}, B.~T., {Kawaler}, S.~D., {et~al.} 2017, \apjs,
+  232, 23, \dodoi{10.3847/1538-4365/aa8bb5}
+
+\bibitem[{{Lajoie} \& {Bergeron}(2007)}]{lajoie+bergeron07-1}
+{Lajoie}, C., \& {Bergeron}, P. 2007, \apj, 667, 1126, \dodoi{10.1086/520926}
+
+\bibitem[{{Lightkurve Collaboration} {et~al.}(2018){Lightkurve Collaboration},
+  {Cardoso}, {Hedges}, {Gully-Santiago}, {Saunders}, {Cody}, {Barclay}, {Hall},
+  {Sagear}, {Turtelboom}, {Zhang}, {Tzanidakis}, {Mighell}, {Coughlin}, {Bell},
+  {Berta-Thompson}, {Williams}, {Dotson}, \& {Barentsen}}]{lightkurve18-1}
+{Lightkurve Collaboration}, {Cardoso}, J.~V.~d.~M., {Hedges}, C., {et~al.}
+  2018, {Lightkurve: Kepler and TESS time series analysis in Python},
+  Astrophysics Source Code Library.
+\newblock \doeprint{1812.013}
+
+\bibitem[{{Maoz} {et~al.}(2015){Maoz}, {Mazeh}, \& {McQuillan}}]{maozetal15-1}
+{Maoz}, D., {Mazeh}, T., \& {McQuillan}, A. 2015, \mnras, 447, 1749,
+  \dodoi{10.1093/mnras/stu2577}
+
+\bibitem[{{Ricker} {et~al.}(2014){Ricker}, {Winn}, {Vanderspek}, {Latham},
+  {Bakos}, {Bean}, {Berta-Thompson}, {Brown}, {Buchhave}, {Butler}, {Butler},
+  {Chaplin}, {Charbonneau}, {Christensen-Dalsgaard}, {Clampin}, {Deming},
+  {Doty}, {De Lee}, {Dressing}, {Dunham}, {Endl}, {Fressin}, {Ge}, {Henning},
+  {Holman}, {Howard}, {Ida}, {Jenkins}, {Jernigan}, {Johnson}, {Kaltenegger},
+  {Kawai}, {Kjeldsen}, {Laughlin}, {Levine}, {Lin}, {Lissauer}, {MacQueen},
+  {Marcy}, {McCullough}, {Morton}, {Narita}, {Paegert}, {Palle}, {Pepe},
+  {Pepper}, {Quirrenbach}, {Rinehart}, {Sasselov}, {Sato}, {Seager},
+  {Sozzetti}, {Stassun}, {Sullivan}, {Szentgyorgyi}, {Torres}, {Udry}, \&
+  {Villasenor}}]{rickeretal14-1}
+{Ricker}, G.~R., {Winn}, J.~N., {Vanderspek}, R., {et~al.} 2014, in Society of
+  Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9143,
+  \procspie, 914320, \dodoi{10.1117/12.2063489}
+
+\bibitem[{{Shipman} {et~al.}(1995){Shipman}, {Provencal}, {Roby}, {Barstow},
+  {Bond}, {Bruhweiler}, {Finley}, {Fontaine}, {Holberg}, {Nousek}, {Sion},
+  {Tweedy}, {Wesemael}, \& {Vauclair}}]{shipmanetal95-2}
+{Shipman}, H.~L., {Provencal}, J., {Roby}, S.~W., {et~al.} 1995, \aj, 109, 1220
+
+\bibitem[{{Stumpe} {et~al.}(2012){Stumpe}, {Smith}, {Van Cleve}, {Twicken},
+  {Barclay}, {Fanelli}, {Girouard}, {Jenkins}, {Kolodziejczak}, {McCauliff}, \&
+  {Morris}}]{stumpeetal12-1}
+{Stumpe}, M.~C., {Smith}, J.~C., {Van Cleve}, J.~E., {et~al.} 2012, \pasp, 124,
+  985, \dodoi{10.1086/667698}
+
+\bibitem[{{Veras} \& {Wolszczan}(2019)}]{veras+wolszczan19-1}
+{Veras}, D., \& {Wolszczan}, A. 2019, \mnras, 488, 153,
+  \dodoi{10.1093/mnras/stz1721}
+
+\bibitem[{{Wilson} {et~al.}(2019){Wilson}, {G{\"a}nsicke}, {Koester}, {Toloza},
+  {Holberg}, {Preval}, {Barstow}, {Belardi}, {Burleigh}, {Casewell}, {Cauley},
+  {Chote}, {Farihi}, {Hollands}, {Long}, \& {Redfield}}]{wilsonetal19-1}
+{Wilson}, D.~J., {G{\"a}nsicke}, B.~T., {Koester}, D., {et~al.} 2019, \mnras,
+  483, 2941, \dodoi{10.1093/mnras/sty3218}
+
+\end{thebibliography}
